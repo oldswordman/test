@@ -1,5 +1,9 @@
 asdfafa
 line2
 line3
+<<<<<<< HEAD
 localline4
 
+=======
+remoteline4
+>>>>>>> 5635f081a25c62da24aa0ab41b8328d7d815c3a2
